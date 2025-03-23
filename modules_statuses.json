@@ -1,5 +1,6 @@
 {
     "Category": true,
     "User": true,
-    "Post": true
+    "Post": true,
+    "Ads": true
 }
